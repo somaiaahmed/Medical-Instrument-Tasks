@@ -31,4 +31,4 @@ This project involves designing a model of an infant incubator that monitors and
 ## Bonus Features
 1. **Mobile Application Notification**: Implement an IoT connection (e.g., via Wi-Fi module) to send real-time alerts to a mobile application if the incubator environment exceeds safe limits.
 
-![mobile app screenshot](<[mobile app screenshot.jpg>)
+![mobile app screenshot](<assets/mobile app screenshot.jpg>)
