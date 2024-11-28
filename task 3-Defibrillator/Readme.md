@@ -1,6 +1,8 @@
 # Smart Defibrillator
 
 This project involves designing a smart defibrillator equipped with advanced sensors for real-time monitoring and intervention in cardiac emergencies. The device focuses on early detection of abnormal heart rhythms and provides timely electric shocks when necessary. Additionally, it integrates a mobile application to guide users through the defibrillator's usage.
+you can find the project here: https://github.com/salahmohamed03/defibrillator-webapp.git
+ 
 
 ## Project Goals
 - Develop a smart defibrillator circuit capable of detecting abnormal heart rhythms.
